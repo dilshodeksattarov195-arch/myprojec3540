@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchpelete",
+        "uuid": 14273280,
+        "checksum": "l7llyh"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
